@@ -9,7 +9,7 @@
  🐷 If it works, don't touch it (even if it's O(n²!)) - who needs efficiency anyway?  
  🐷 Reach me on [Discord](https://discord.com/users/690959747871932477): @piggyoinkoink
 
- 🐷Fun fact - unlike most software developers I like touching grass and exploring the world around me
+ 🐷Fun fact - unlike most computer scientists I like touching grass and exploring the world around me
 
 
 
